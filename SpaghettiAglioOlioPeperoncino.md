@@ -8,3 +8,4 @@ Il mio piatto preferito.
 *aglio 
 *olio
 *peperoncino
+*prezzemolo
