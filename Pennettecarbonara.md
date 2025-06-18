@@ -6,5 +6,5 @@ le famose pennette alla carbonara.
 
 *Penne
 *Uova
-*Pancetta
+*Guanciale
 *Pepe nero
