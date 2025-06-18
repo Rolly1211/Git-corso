@@ -1,3 +1,4 @@
 #RICETTE
 
-*Spaghetti aglio, olio e peperoncino
+* Spaghetti aglio, olio e peperoncino
+* Pennette alla carbonara
