@@ -8,4 +8,4 @@ Questo archivio contiene tutte le ricette preferite di Chiara!
 * Risotto ai funghi
 * Pennette alla carbonara
 * Minestrone
-
+* Salmone al cartoccio
